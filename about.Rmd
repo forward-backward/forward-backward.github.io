@@ -1,0 +1,28 @@
+---
+title: "About"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **Forward-Backward Lab**
+
+### *Dynamic Documents for R* {style="padding-top: 0px;"}
+
+R Markdown is an authoring format that enables easy creation of dynamic documents, presentations, and reports from R. It combines the core syntax of [markdown](https://daringfireball.net/projects/markdown/) (an easy to write plain text format) with embedded R code chunks that are run so their output can be included in the final document. 
+
+R Markdown documents are fully reproducible (they can be automatically regenerated whenever underlying R code or data changes).
+
+R Markdown has many available output formats including

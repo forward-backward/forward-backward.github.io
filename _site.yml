@@ -1,0 +1,10 @@
+name: "Forward-Backward"
+navbar:
+  title: "Foward-Backward"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Market Report"
+      href: mkt_report.html
+    - text: "About"
+      href: about.html
