@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Market Report"
+    - text: "Test Change"
       href: mkt_report.html
     - text: "About"
       href: about.html
