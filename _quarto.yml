@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Forward-Backward"
+  title: "forward-backward"
   navbar:
     right:
       - about.qmd

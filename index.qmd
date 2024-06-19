@@ -11,6 +11,3 @@ page-layout: full
 title-block-banner: true
 ---
 
-```{python}
-import pandas as pd
-```
