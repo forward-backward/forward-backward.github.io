@@ -1,0 +1,11 @@
+---
+title: "Hello World"
+author: "Chris Glynn"
+date: "2024-06-19"
+categories: [news]
+---
+
+Why does the world need another voice?  Not sure it does.  But this isn't for the world.  It's for me.  So let's do it. 
+
+![](thumbnail.jpg)
+
