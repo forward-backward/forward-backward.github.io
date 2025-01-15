@@ -1,0 +1,26 @@
+---
+title: "Hello World"
+author: "Chris Glynn"
+date: "2025-01-15"
+categories: [news]
+---
+
+Grow or die.
+
+Themes to explore in this blog:
+
+-   Machine Learning and AI
+
+-   Economics
+
+-   Data Strategy
+
+-   Data Commercialization
+
+-   Software Engineering
+
+-   Product
+
+-   Leadership
+
+![](thumbnail.jpg)
