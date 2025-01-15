@@ -15,4 +15,4 @@ about:
       href: https://github.com
 ---
 
-I am Chris Glynn.  I'm a Ph.D. Statistician working in tech.  I'm a recovering researcher (seriously, it's taken me a few years to recover any degree of creative spirit).  
+Chris Glynn is a Ph.D. Statistician working in tech.
