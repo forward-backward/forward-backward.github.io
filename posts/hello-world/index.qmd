@@ -1,11 +1,26 @@
 ---
 title: "Hello World"
 author: "Chris Glynn"
-date: "2024-06-19"
+date: "2025-01-15"
 categories: [news]
 ---
 
-Why does the world need another voice?  Not sure it does.  But this isn't for the world.  It's for me.  So let's do it. 
+Grow or die.
+
+Themes to explore in this blog:
+
+-   Machine Learning and AI
+
+-   Economics
+
+-   Data Strategy
+
+-   Data Commercialization
+
+-   Software Engineering
+
+-   Product
+
+-   Leadership
 
 ![](thumbnail.jpg)
-
